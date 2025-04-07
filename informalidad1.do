@@ -2,8 +2,8 @@
 clear all
 set more off
 
-global data "C:\Users\Lori\Desktop\work_dianatorres\Informalidad"
-global output "C:\Users\Lori\Desktop\work_dianatorres\Informalidad\Output"
+global data "C:\Users\Lori\Desktop\Informalidad"
+global output "C:\Users\Lori\Desktop\Informalidad\Output"
 
 cd $data
 
